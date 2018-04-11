@@ -1,0 +1,14 @@
+cookies
+cookies/*
+sessions
+sessions/*
+__pycache__
+__pycache__/*
+env
+env/*
+geckodriver.log
+screenshot
+screenshot/*
+*.crx
+history_login.txt
+config.ini

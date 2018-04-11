@@ -13,7 +13,7 @@ def init_bot():
         scp_ip = config.get('scp', 'ip'),
         scp_user = config.get('scp', 'user'),
         scp_password = config.get('scp', 'password'),
-        scp_path = "/home/alessandro/IG-Force-Login/cookies/"
+        scp_path = "/home/viralprod/IG-Force-Login/cookies/"
     )
 
 if __name__ == '__main__':
